@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.list-title {
+  font-size: 18px;
+  color: #12022f;
+}
+.list-description {
+  font-size: 14px;
+  color: #616e7c;
+}
+.list-date {
+  font-size: 12px;
+  color: #9aa5b1;
+  margin-left: auto;
+}
+.list-container {
+  display: flex;
+  border-bottom: 1px solid;
+  color: #9aa5b1;
+  margin-bottom: 15px;
+}

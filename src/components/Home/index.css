@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-image {
+  width: 120px;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-user-name {
+  font-size: 20px;
+  color: #12022f;
+}
+.profile-user-details {
+  font-size: 14px;
+  color: #616e7c;
+}
